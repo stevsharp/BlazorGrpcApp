@@ -23,8 +23,7 @@ https://github.com/jbogard/MediatR
 Ensure you have the following installed:
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
-- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) (or later) with ASP.NET and web development workload
-- [Node.js](https://nodejs.org/) (for frontend dependencies)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) (or later) with ASP.NET and Blazor web development workload
 
 ### Installation
 
